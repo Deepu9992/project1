@@ -1,5 +1,3 @@
-<<<<<<< HEAD
- newline 
-=======
- new line1
->>>>>>> 8736e77
+newline 
+new line1
+line3
